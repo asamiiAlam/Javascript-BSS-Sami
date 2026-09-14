@@ -76,3 +76,4 @@ twitterBtn.addEventListener('click', tweetQuote);
 getQuotes();
 
 // newQuote();
+
